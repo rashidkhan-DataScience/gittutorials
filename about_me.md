@@ -1,5 +1,7 @@
 # About Me
 
+
+This needs to be updated with Pricing Projects
 ## Professional Summary
 
 I am a data and AI professional with over eight years of experience across analytics, data engineering, insurance pricing and risk analysis, marketing measurement, and business intelligence. I enjoy turning complex data into practical insights, improving data quality, automating repetitive processes, and building analytical solutions that support better business decisions.
@@ -56,3 +58,4 @@ I am interested in insurance pricing and risk analytics, applied AI engineering,
 ---
 
 *Keep project descriptions aligned with the work you personally completed, and add only metrics or outcomes you can substantiate.*
+ECHO is on.
